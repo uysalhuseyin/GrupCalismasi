@@ -3,14 +3,15 @@ public class Grup19 {
         System.out.println("merhaba arkadaslar");
         System.out.println("test");
         System.out.println("Test ENES");
-        System.out.println("Rule eklendikten sonra Enes TEST");
-        System.out.println("Ikinci Test ");
-        System.out.println("ucuncu Test  enes ");
 
-        System.out.println("aziz was here");
-        System.out.println(" yeni enes test " );
 
-        System.out.println("yeni test");
+        for (int i = 0; i < 2; i++) {
+            System.out.println("Aziz");
+
+            System.out.println("ömer test");
+        }
+        System.out.println("test enes 1 masterda1");
+        System.out.println("test");
 
     }
 }
