@@ -6,6 +6,8 @@ public class Grup19 {
 
         for (int i = 0; i < 2; i++) {
             System.out.println("Aziz");
+
+            System.out.println("ömer test");
         }
     }
 }
