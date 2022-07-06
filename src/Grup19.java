@@ -7,5 +7,7 @@ public class Grup19 {
         System.out.println("Ikinci Test ");
         System.out.println("ucuncu Test  enes ");
 
+        System.out.println("aziz was here");
+
     }
 }
