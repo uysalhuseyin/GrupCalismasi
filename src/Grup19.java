@@ -10,5 +10,7 @@ public class Grup19 {
             System.out.println("ömer test");
         }
         System.out.println("test enes 1 masterda1");
+
+        System.out.println("test");
     }
 }
