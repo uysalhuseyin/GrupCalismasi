@@ -10,5 +10,7 @@ public class Grup19 {
         System.out.println("aziz was here");
         System.out.println(" yeni enes test " );
 
+        System.out.println("yeni test");
+
     }
 }
