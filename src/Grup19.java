@@ -4,6 +4,7 @@ public class Grup19 {
         System.out.println("test");
         System.out.println("Test ENES");
 
+
         for (int i = 0; i < 2; i++) {
             System.out.println("Aziz");
 
@@ -11,5 +12,6 @@ public class Grup19 {
         }
         System.out.println("test enes 1 masterda1");
         System.out.println("test");
+
     }
 }
