@@ -5,5 +5,7 @@ public class Grup19 {
         System.out.println("Test ENES");
         System.out.println("Rule eklendikten sonra Enes TEST");
         System.out.println("Ikinci Test ");
+        System.out.println("ucuncu Test  enes ");
+
     }
 }
